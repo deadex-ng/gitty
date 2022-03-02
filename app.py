@@ -72,6 +72,14 @@ def repo_traffic(username,repo,token):
     traffic["views_unique"] = views['uniques']
     #traffic_data = json.dumps(traffic)
     return jsonify(traffic)
+
+def wily_test_function():
+    x = 2 
+    if x == 2 :
+        print("x is 2")
+    else:
+        print("x is not 2")
+    return none
 # main driver function
 if __name__ == "__main__":
     # run() method of Flask class runs the

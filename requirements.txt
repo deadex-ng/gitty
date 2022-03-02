@@ -33,7 +33,7 @@ mando==0.6.4
 MarkupSafe
 mccabe==0.6.1
 nbformat==5.1.3
-networkx==2.7
+networkx
 pbr==5.8.1
 perceval==0.17.16
 platformdirs==2.5.1
